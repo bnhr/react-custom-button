@@ -1,12 +1,13 @@
-# Next TypeScript Starter
+# Custom Button Component using React
 
-Minimal Nextjs + TypeScript for everyone next project
+This is code from my [blogpost](https://blog.herugunawan.com/blog/membuat-button-component-dengan-react-dan-typescript)
 
 ## Running Locally
 
 ```
-git clone https://github.com/bnhr/next-starter-typescript
-cd next-starter-typescript
+git clone https://github.com/bnhr/react-custom-button.git
+cd next-custom-button
+rm -r .git
 yarn
 yarn dev
 ```
